@@ -53,9 +53,11 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 Server:
+
 ![](https://github.com/sreevarshad/Echoserver/blob/main/a1.png)
 
 Client:
+
 ![](https://github.com/sreevarshad/Echoserver/blob/main/a2.png)
 ## RESULT:
 The program is executed successfully.
